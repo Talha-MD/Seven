@@ -11,7 +11,7 @@ export default function Home() {
           className="lg:w-24 w-10 hover:hue-rotate-15 hover:rotate-12 duration-100"
         />
         <h1 className="lg:text-8xl md:text-6xl sm:text-4xl text-xl py-5">
-          Seven Agency Vvork
+          Seven Agency Vvvork cloud
         </h1>
         <p className="md:text-3xl sm:text-2xl text-sm">
           Smart digital solutions
